@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring backend engineer who enjoys building clean and structured systems.<br><br>I work with Node.js, NestJS, and databases, and I love turning ideas into real applications.<br><br>Currently learning, building projects, and improving every day.
+Aspiring backend engineer who enjoys building clean and structured systems.<br><br>I work with Golang, Node.js, NestJS, and databases, and I love turning ideas into real applications.<br><br>Currently learning, building projects, and improving every day.
 
 
 ## 🌐 Socials:
