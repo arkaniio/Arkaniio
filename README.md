@@ -12,3 +12,9 @@ Aspiring backend engineer who enjoys building clean and structured systems.<br><
 ## 📊 GitHub Stats
 
 ![Arkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaniio&show_icons=true&theme=tokyonight)
+
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaniio&layout=compact&theme=tokyonight)
+
+## Streak Today
+![GitHub Streak](https://streak-stats.demolab.com?user=arkaniio&theme=tokyonight)
